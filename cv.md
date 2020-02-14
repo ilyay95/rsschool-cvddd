@@ -14,7 +14,7 @@ For me, the main priority is to realize my potential in the chosen area
 
  Skills :
 
-`Languages:` C#, C++, Ruby, JavaScript, HTML5, CSS3;<br>
+`Languages:` C#, C++,Ruby,JavaScript, HTML5, CSS3;<br>
 `Version control system:` Git  <br>
 `Graphics editor:` Photoshop
 
