@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height:100%;
+  }
+  
+  
+  main, header, footer{ 
+    box-sizing: border-box;
+    max-width: 1024px;
+    min-width: 400px;
+    margin: 0 auto;
+    background-color:lightcyan;
+  }
+  
+  header{
+    background-color:lightgreen;
+  }
+  
+  footer {
+    font-size: 0.8em;
+    background-color: lightskyblue;
+    color:rgb(71, 65, 65);
+    text-align: center;
+  }
+  
+  h1 {
+    text-shadow: 1px 1px 2px rgb(59, 57, 57), 0 0 1em rgb(85, 79, 79);
+    padding: 0.5em;
+    color: black;
+    text-align: center;
+  }
+  
+  h3 {
+    margin-top: 1em;
+  }
+  
+  section {
+     padding: 0 1em 1em;
+     margin-top: 0;
+  }
+  nav{text-align:centr;}
+  section p{
+    text-indent: 1.5em;
+    text-align: justify;
+  }
+  .navigation {
+    width: 100%;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+.navigation a {
+    margin: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "AngryBirds-Regular", "Arial", sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.navigation a:hover {
+    color: #bcfff8;
+}
+  
+  .c-photo {
+    padding: 1em 0 0 1em;
+  }
+  
+  .photo {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  .position{
+    padding: 1em;
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: dsl();
+  }
+  
+  .experience ul{
+    padding: 0 1em 1em;
+  }
+  
